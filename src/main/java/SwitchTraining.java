@@ -1,3 +1,14 @@
+
+/*
+* Aufgabe 2: Alarm
+Erweitere deine Alarmmethode um einen weiteren Parameter "Alarmstufe"
+Alarmstufe „rot“: keine Personen erlaubt
+Alarmstufe „gelb“: max 30 Personen erlaubt
+Alarmstufe „grün“: max 60 Personen erlaubt
+Passe deine vorhandenen Tests an.
+Schreibe jeweils erst einen Test und dann die entsprechende Funktionalität
+* */
+
 public class SwitchTraining {
     public static void main(String[] args) {
 
